@@ -11,7 +11,7 @@ const App = () => {
       foodOrdered: "Jollof Rice and Chicken",
       price: 2500,
       status: "Pending",
-      orderTime: "2025-07-15 14:30"
+      orderTime: "2025-07-01 09:15"
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ const App = () => {
       foodOrdered: "Fried Rice and Chicken",
       price: 1800,
       status: "Delivered",
-      orderTime: "2025-08-20 13:45"
+      orderTime: "2025-07-01 13:45"
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ const App = () => {
       foodOrdered: "Ice Cream",
       price: 1200,
       status: "Cancelled",
-      orderTime: "2025-09-05 12:20"
+      orderTime: "2025-07-01 17:30"
     },
     {
       id: 4,
@@ -35,7 +35,7 @@ const App = () => {
       foodOrdered: "Parfait Fruit",
       price: 1600,
       status: "Delivered",
-      orderTime: "2025-10-12 11:15"
+      orderTime: "2025-07-02 10:10"
     },
     {
       id: 5,
@@ -43,7 +43,7 @@ const App = () => {
       foodOrdered: "Plantain and Chicken",
       price: 2200,
       status: "Pending",
-      orderTime: "2025-11-08 15:10"
+      orderTime: "2025-07-02 14:20"
     },
     {
       id: 6,
@@ -51,7 +51,7 @@ const App = () => {
       foodOrdered: "Amala and Gbegiri",
       price: 1400,
       status: "Delivered",
-      orderTime: "2025-12-03 10:30"
+      orderTime: "2025-07-02 18:05"
     },
     {
       id: 7,
@@ -59,7 +59,7 @@ const App = () => {
       foodOrdered: "Pepper Soup",
       price: 1300,
       status: "Pending",
-      orderTime: "2025-12-15 16:45"
+      orderTime: "2025-07-03 09:50"
     },
     {
       id: 8,
@@ -67,7 +67,7 @@ const App = () => {
       foodOrdered: "Spaghetti",
       price: 1900,
       status: "Delivered",
-      orderTime: "2025-12-28 09:20"
+      orderTime: "2025-07-03 13:30"
     },
     {
       id: 9,
@@ -75,7 +75,7 @@ const App = () => {
       foodOrdered: "Jollof Rice and Chicken",
       price: 1700,
       status: "Cancelled",
-      orderTime: "2025-01-10 14:15"
+      orderTime: "2025-07-03 17:10"
     },
     {
       id: 10,
@@ -83,7 +83,7 @@ const App = () => {
       foodOrdered: "Fried Rice and Chicken",
       price: 1100,
       status: "Delivered",
-      orderTime: "2025-01-25 08:45"
+      orderTime: "2025-07-04 09:40"
     },
     {
       id: 11,
@@ -91,7 +91,7 @@ const App = () => {
       foodOrdered: "Ice Cream",
       price: 2000,
       status: "Pending",
-      orderTime: "2025-02-14 17:30"
+      orderTime: "2025-07-04 13:20"
     },
     {
       id: 12,
@@ -99,7 +99,7 @@ const App = () => {
       foodOrdered: "Plantain and Chicken",
       price: 1500,
       status: "Delivered",
-      orderTime: "2025-03-08 12:50"
+      orderTime: "2025-07-04 17:00"
     },
     {
       id: 13,
@@ -107,7 +107,7 @@ const App = () => {
       foodOrdered: "Amala and Gbegiri",
       price: 1800,
       status: "Pending",
-      orderTime: "2025-03-22 18:15"
+      orderTime: "2025-07-05 10:30"
     },
     {
       id: 14,
@@ -115,7 +115,7 @@ const App = () => {
       foodOrdered: "Pepper Soup",
       price: 1600,
       status: "Delivered",
-      orderTime: "2025-04-05 11:40"
+      orderTime: "2025-07-05 14:10"
     },
     {
       id: 15,
@@ -123,7 +123,7 @@ const App = () => {
       foodOrdered: "Spaghetti",
       price: 1400,
       status: "Cancelled",
-      orderTime: "2025-04-18 13:25"
+      orderTime: "2025-07-05 18:00"
     },
     {
       id: 16,
@@ -131,7 +131,7 @@ const App = () => {
       foodOrdered: "Jollof Rice and Chicken",
       price: 1200,
       status: "Delivered",
-      orderTime: "2025-05-02 10:10"
+      orderTime: "2025-07-06 09:25"
     },
     {
       id: 17,
@@ -139,7 +139,7 @@ const App = () => {
       foodOrdered: "Fried Rice and Chicken",
       price: 2100,
       status: "Pending",
-      orderTime: "2025-05-15 19:00"
+      orderTime: "2025-07-06 13:05"
     },
     {
       id: 18,
@@ -147,7 +147,7 @@ const App = () => {
       foodOrdered: "Ice Cream",
       price: 1300,
       status: "Delivered",
-      orderTime: "2025-05-28 09:55"
+      orderTime: "2025-07-06 16:45"
     },
     {
       id: 19,
@@ -155,7 +155,7 @@ const App = () => {
       foodOrdered: "Parfait Fruit",
       price: 1900,
       status: "Pending",
-      orderTime: "2025-06-10 20:15"
+      orderTime: "2025-07-07 10:00"
     },
     {
       id: 20,
@@ -163,7 +163,7 @@ const App = () => {
       foodOrdered: "Plantain and Chicken",
       price: 1400,
       status: "Delivered",
-      orderTime: "2025-06-25 08:30"
+      orderTime: "2025-07-07 13:40"
     },
     {
       id: 21,
@@ -171,7 +171,7 @@ const App = () => {
       foodOrdered: "Amala and Gbegiri",
       price: 2300,
       status: "Cancelled",
-      orderTime: "2025-07-01 15:45"
+      orderTime: "2025-07-07 17:20"
     },
     {
       id: 22,
@@ -179,7 +179,7 @@ const App = () => {
       foodOrdered: "Pepper Soup",
       price: 1700,
       status: "Delivered",
-      orderTime: "2025-07-15 12:05"
+      orderTime: "2025-07-08 09:35"
     },
     {
       id: 23,
@@ -187,7 +187,7 @@ const App = () => {
       foodOrdered: "Spaghetti",
       price: 2000,
       status: "Pending",
-      orderTime: "2025-07-15 21:30"
+      orderTime: "2025-07-08 13:15"
     },
     {
       id: 24,
@@ -195,7 +195,7 @@ const App = () => {
       foodOrdered: "Jollof Rice and Chicken",
       price: 1200,
       status: "Delivered",
-      orderTime: "2025-07-15 07:20"
+      orderTime: "2025-07-08 16:55"
     },
     {
       id: 25,
@@ -203,7 +203,7 @@ const App = () => {
       foodOrdered: "Fried Rice and Chicken",
       price: 1800,
       status: "Pending",
-      orderTime: "2025-07-15 22:15"
+      orderTime: "2025-07-09 10:20"
     },
     {
       id: 26,
@@ -211,7 +211,7 @@ const App = () => {
       foodOrdered: "Ice Cream",
       price: 1500,
       status: "Delivered",
-      orderTime: "2025-07-15 11:25"
+      orderTime: "2025-07-09 14:00"
     },
     {
       id: 27,
@@ -219,7 +219,7 @@ const App = () => {
       foodOrdered: "Parfait Fruit",
       price: 2200,
       status: "Cancelled",
-      orderTime: "2025-07-15 16:40"
+      orderTime: "2025-07-09 17:40"
     },
     {
       id: 28,
@@ -227,7 +227,7 @@ const App = () => {
       foodOrdered: "Plantain and Chicken",
       price: 1300,
       status: "Delivered",
-      orderTime: "2025-07-15 10:50"
+      orderTime: "2025-07-10 09:10"
     },
     {
       id: 29,
@@ -235,7 +235,7 @@ const App = () => {
       foodOrdered: "Amala and Gbegiri",
       price: 2400,
       status: "Pending",
-      orderTime: "2025-07-15 23:00"
+      orderTime: "2025-07-10 13:50"
     },
     {
       id: 30,
@@ -243,7 +243,7 @@ const App = () => {
       foodOrdered: "Pepper Soup",
       price: 1600,
       status: "Delivered",
-      orderTime: "2025-07-15 08:15"
+      orderTime: "2025-07-10 17:30"
     },
     {
       id: 31,
@@ -251,7 +251,7 @@ const App = () => {
       foodOrdered: "Jollof Rice and Chicken",
       price: 2500,
       status: "Delivered",
-      orderTime: "2025-08-01 13:10"
+      orderTime: "2025-07-11 09:25"
     },
     {
       id: 32,
@@ -259,7 +259,7 @@ const App = () => {
       foodOrdered: "Fried Rice and Chicken",
       price: 2200,
       status: "Pending",
-      orderTime: "2025-08-03 15:45"
+      orderTime: "2025-07-11 13:05"
     },
     {
       id: 33,
@@ -267,7 +267,7 @@ const App = () => {
       foodOrdered: "Ice Cream",
       price: 1200,
       status: "Cancelled",
-      orderTime: "2025-08-05 12:00"
+      orderTime: "2025-07-11 16:45"
     },
     {
       id: 34,
@@ -275,7 +275,7 @@ const App = () => {
       foodOrdered: "Parfait Fruit",
       price: 1600,
       status: "Delivered",
-      orderTime: "2025-08-07 10:30"
+      orderTime: "2025-07-12 10:00"
     },
     {
       id: 35,
@@ -283,7 +283,7 @@ const App = () => {
       foodOrdered: "Plantain and Chicken",
       price: 2100,
       status: "Pending",
-      orderTime: "2025-08-10 14:20"
+      orderTime: "2025-07-12 13:40"
     },
     {
       id: 36,
@@ -291,7 +291,7 @@ const App = () => {
       foodOrdered: "Amala and Gbegiri",
       price: 1400,
       status: "Delivered",
-      orderTime: "2025-08-12 11:55"
+      orderTime: "2025-07-12 17:20"
     },
     {
       id: 37,
@@ -299,7 +299,7 @@ const App = () => {
       foodOrdered: "Pepper Soup",
       price: 1300,
       status: "Pending",
-      orderTime: "2025-08-15 16:00"
+      orderTime: "2025-07-13 09:35"
     },
     {
       id: 38,
@@ -307,7 +307,7 @@ const App = () => {
       foodOrdered: "Spaghetti",
       price: 1900,
       status: "Delivered",
-      orderTime: "2025-08-18 09:40"
+      orderTime: "2025-07-13 13:15"
     },
     {
       id: 39,
@@ -315,7 +315,7 @@ const App = () => {
       foodOrdered: "Jollof Rice and Chicken",
       price: 1700,
       status: "Cancelled",
-      orderTime: "2025-08-20 13:25"
+      orderTime: "2025-07-13 16:55"
     },
     {
       id: 40,
@@ -323,7 +323,7 @@ const App = () => {
       foodOrdered: "Fried Rice and Chicken",
       price: 1100,
       status: "Delivered",
-      orderTime: "2025-08-22 08:50"
+      orderTime: "2025-07-14 10:20"
     },
     {
       id: 41,
@@ -331,7 +331,7 @@ const App = () => {
       foodOrdered: "Ice Cream",
       price: 2000,
       status: "Pending",
-      orderTime: "2025-08-25 17:10"
+      orderTime: "2025-07-14 14:00"
     },
     {
       id: 42,
@@ -339,7 +339,7 @@ const App = () => {
       foodOrdered: "Plantain and Chicken",
       price: 1500,
       status: "Delivered",
-      orderTime: "2025-08-27 12:30"
+      orderTime: "2025-07-14 17:40"
     },
     {
       id: 43,
@@ -347,7 +347,7 @@ const App = () => {
       foodOrdered: "Amala and Gbegiri",
       price: 1800,
       status: "Pending",
-      orderTime: "2025-08-29 18:05"
+      orderTime: "2025-07-15 09:10"
     },
     {
       id: 44,
@@ -355,7 +355,7 @@ const App = () => {
       foodOrdered: "Pepper Soup",
       price: 1600,
       status: "Delivered",
-      orderTime: "2025-09-01 11:20"
+      orderTime: "2025-07-15 13:50"
     },
     {
       id: 45,
@@ -363,7 +363,7 @@ const App = () => {
       foodOrdered: "Spaghetti",
       price: 1400,
       status: "Cancelled",
-      orderTime: "2025-09-03 13:55"
+      orderTime: "2025-07-15 17:30"
     }
   ];
 
