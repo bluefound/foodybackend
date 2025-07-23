@@ -445,6 +445,86 @@ const App = () => {
       status: "Delivered",
       orderTime: "2025-07-21 15:45"
     }
+    {
+      id: 46,
+      customerName: "Bola Shonubi",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 2500,
+      status: "Delivered",
+      orderTime: "2025-07-21 10:00"
+    },
+    {
+      id: 47,
+      customerName: "Chika Okafor",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 1800,
+      status: "Pending",
+      orderTime: "2025-07-21 10:45"
+    },
+    {
+      id: 48,
+      customerName: "Ireti Adebayo",
+      foodOrdered: "Ice Cream",
+      price: 1200,
+      status: "Cancelled",
+      orderTime: "2025-07-21 11:30"
+    },
+    {
+      id: 49,
+      customerName: "Gbenga Ojo",
+      foodOrdered: "Parfait Fruit",
+      price: 1600,
+      status: "Delivered",
+      orderTime: "2025-07-21 12:15"
+    },
+    {
+      id: 50,
+      customerName: "Ngozi Nwosu",
+      foodOrdered: "Plantain and Chicken",
+      price: 2200,
+      status: "Pending",
+      orderTime: "2025-07-21 13:00"
+    },
+    {
+      id: 51,
+      customerName: "Tosin Ajayi",
+      foodOrdered: "Amala and Gbegiri",
+      price: 1400,
+      status: "Delivered",
+      orderTime: "2025-07-21 13:45"
+    },
+    {
+      id: 52,
+      customerName: "Chinedu Eze",
+      foodOrdered: "Pepper Soup",
+      price: 1300,
+      status: "Pending",
+      orderTime: "2025-07-21 14:30"
+    },
+    {
+      id: 53,
+      customerName: "Aisha Lawal",
+      foodOrdered: "Spaghetti",
+      price: 1900,
+      status: "Delivered",
+      orderTime: "2025-07-21 15:00"
+    },
+    {
+      id: 54,
+      customerName: "Emmanuel Umeh",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 1700,
+      status: "Cancelled",
+      orderTime: "2025-07-21 15:30"
+    },
+    {
+      id: 55,
+      customerName: "Yetunde Balogun",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 1100,
+      status: "Delivered",
+      orderTime: "2025-07-21 15:45"
+    }
   ];
 
   const filteredOrders = statusFilter === 'All' 
