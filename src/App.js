@@ -14,6 +14,94 @@ const App = () => {
       orderTime: "2025-07-01 09:15"
     },
     {
+      id: 28,
+      customerName: "Chinedu Okonkwo",
+      foodOrdered: "Pounded Yam and Egusi",
+      price: 2200,
+      status: "Pending",
+      orderTime: "2025-07-22 10:30"
+    },
+    {
+      id: 29,
+      customerName: "Hauwa Yusuf",
+      foodOrdered: "Suya",
+      price: 800,
+      status: "Delivered",
+      orderTime: "2025-07-22 11:45"
+    },
+    {
+      id: 30,
+      customerName: "Emeka Nwachukwu",
+      foodOrdered: "Amala and Ewedu",
+      price: 1900,
+      status: "Pending",
+      orderTime: "2025-07-22 12:15"
+    },
+    {
+      id: 31,
+      customerName: "Fatima Mohammed",
+      foodOrdered: "Efo Riro",
+      price: 1600,
+      status: "Delivered",
+      orderTime: "2025-07-22 13:30"
+    },
+    {
+      id: 32,
+      customerName: "Chibuzor Nwachukwu",
+      foodOrdered: "Akara",
+      price: 500,
+      status: "Delivered",
+      orderTime: "2025-07-22 14:45"
+    },
+    {
+      id: 33,
+      customerName: "Rahim Suleiman",
+      foodOrdered: "Puff Puff",
+      price: 400,
+      status: "Pending",
+      orderTime: "2025-07-22 15:30"
+    },
+    {
+      id: 34,
+      customerName: "Chioma Okonkwo",
+      foodOrdered: "Jollof Rice and Plantain",
+      price: 2100,
+      status: "Delivered",
+      orderTime: "2025-07-22 16:45"
+    },
+    {
+      id: 35,
+      customerName: "Abdullahi Ibrahim",
+      foodOrdered: "Bread and Eggs",
+      price: 1200,
+      status: "Pending",
+      orderTime: "2025-07-22 17:15"
+    },
+    {
+      id: 36,
+      customerName: "Bisi Afolabi",
+      foodOrdered: "Egusi Soup",
+      price: 1800,
+      status: "Delivered",
+      orderTime: "2025-07-22 18:30"
+    },
+    {
+      id: 37,
+      customerName: "Adetayo Adeyemi",
+      foodOrdered: "Banga Soup",
+      price: 2000,
+      status: "Pending",
+      orderTime: "2025-07-22 19:45"
+    },
+    {
+      id: 1,
+      customerName: "Adebayo Okechukwu",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 2500,
+      status: "Pending",
+      orderTime: "2025-07-01 09:15"
+    },
+    {
       id: 2,
       customerName: "Fatima Hassan",
       foodOrdered: "Fried Rice and Chicken",
