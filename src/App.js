@@ -445,6 +445,7 @@ const App = () => {
       status: "Delivered",
       orderTime: "2025-07-21 15:45"
     },
+    // 15 new orders (local)
     {
       id: 56,
       customerName: "Chinaza Okorie",
@@ -565,6 +566,7 @@ const App = () => {
       status: "Cancelled",
       orderTime: "2025-07-27 13:30"
     }
+    // ... keep any additional unique remote orders here if needed ...
   ];
 
   const filteredOrders = statusFilter === 'All' 
