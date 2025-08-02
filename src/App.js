@@ -678,7 +678,134 @@ const App = () => {
       status: "Delivered",
       orderTime: "2025-07-29 21:40"
     },
-    // ... keep any additional unique remote orders here if needed ...
+    {
+      id: 85,
+      customerName: "Amina Yusuf",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 2500,
+      status: "Pending",
+      orderTime: "2025-07-31 09:15"
+    },
+    {
+      id: 86,
+      customerName: "Ibrahim Musa",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 1800,
+      status: "Delivered",
+      orderTime: "2025-07-31 10:30"
+    },
+    {
+      id: 87,
+      customerName: "Chinelo Okonkwo",
+      foodOrdered: "Ice Cream",
+      price: 1200,
+      status: "Pending",
+      orderTime: "2025-07-31 11:45"
+    },
+    {
+      id: 88,
+      customerName: "Yusuf Bello",
+      foodOrdered: "Parfait Fruit",
+      price: 1600,
+      status: "Delivered",
+      orderTime: "2025-07-31 12:20"
+    },
+    {
+      id: 89,
+      customerName: "Aisha Mohammed",
+      foodOrdered: "Plantain and Chicken",
+      price: 2200,
+      status: "Pending",
+      orderTime: "2025-07-31 13:45"
+    },
+    {
+      id: 90,
+      customerName: "Emeka Nwosu",
+      foodOrdered: "Amala and Gbegiri",
+      price: 1400,
+      status: "Delivered",
+      orderTime: "2025-07-31 14:30"
+    },
+    {
+      id: 91,
+      customerName: "Hauwa Abdullahi",
+      foodOrdered: "Pepper Soup",
+      price: 1300,
+      status: "Cancelled",
+      orderTime: "2025-07-31 15:15"
+    },
+    {
+      id: 92,
+      customerName: "Oluwaseun Adebayo",
+      foodOrdered: "Spaghetti",
+      price: 1900,
+      status: "Delivered",
+      orderTime: "2025-07-31 16:00"
+    },
+    {
+      id: 93,
+      customerName: "Fatima Ibrahim",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 1700,
+      status: "Pending",
+      orderTime: "2025-08-01 09:30"
+    },
+    {
+      id: 94,
+      customerName: "Chinedu Okafor",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 2100,
+      status: "Delivered",
+      orderTime: "2025-08-01 10:45"
+    },
+    {
+      id: 95,
+      customerName: "Amina Hassan",
+      foodOrdered: "Ice Cream",
+      price: 1200,
+      status: "Pending",
+      orderTime: "2025-08-01 12:00"
+    },
+    {
+      id: 96,
+      customerName: "Yusuf Bala",
+      foodOrdered: "Plantain and Chicken",
+      price: 1900,
+      status: "Delivered",
+      orderTime: "2025-08-01 13:15"
+    },
+    {
+      id: 97,
+      customerName: "Ngozi Eze",
+      foodOrdered: "Amala and Gbegiri",
+      price: 1500,
+      status: "Cancelled",
+      orderTime: "2025-08-01 14:30"
+    },
+    {
+      id: 98,
+      customerName: "Ibrahim Suleiman",
+      foodOrdered: "Pepper Soup",
+      price: 1400,
+      status: "Delivered",
+      orderTime: "2025-08-01 15:45"
+    },
+    {
+      id: 99,
+      customerName: "Aisha Yusuf",
+      foodOrdered: "Spaghetti",
+      price: 2000,
+      status: "Pending",
+      orderTime: "2025-08-01 16:30"
+    },
+    {
+      id: 100,
+      customerName: "Emmanuel Okonkwo",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 2300,
+      status: "Delivered",
+      orderTime: "2025-08-01 17:15"
+    }
   ];
 
   const filteredOrders = statusFilter === 'All' 
