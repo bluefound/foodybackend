@@ -204,6 +204,167 @@ const App = () => {
       price: 3000,
       status: "Delivered",
       orderTime: "2025-08-08 12:15"
+    },
+    // New orders for August 11, 2025
+    {
+      id: 26,
+      customerName: "Amina Yusuf",
+      foodOrdered: "Jollof Rice and Grilled Fish",
+      price: 3200,
+      status: "Delivered",
+      orderTime: "2025-08-11 09:30"
+    },
+    {
+      id: 27,
+      customerName: "Obinna Eze",
+      foodOrdered: "Pounded Yam and Ogbono",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-11 10:15"
+    },
+    {
+      id: 28,
+      customerName: "Zainab Abdullahi",
+      foodOrdered: "Fried Rice and Dodo",
+      price: 2500,
+      status: "Delivered",
+      orderTime: "2025-08-11 10:45"
+    },
+    {
+      id: 29,
+      customerName: "Chinedu Okafor",
+      foodOrdered: "Banga and Starch",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-11 11:20"
+    },
+    {
+      id: 30,
+      customerName: "Aisha Mohammed",
+      foodOrdered: "White Rice and Stew",
+      price: 2000,
+      status: "Delivered",
+      orderTime: "2025-08-11 11:50"
+    },
+    {
+      id: 31,
+      customerName: "Ibrahim Suleiman",
+      foodOrdered: "Beef Suya",
+      price: 1800,
+      status: "Delivered",
+      orderTime: "2025-08-11 12:30"
+    },
+    {
+      id: 32,
+      customerName: "Ngozi Okonkwo",
+      foodOrdered: "Abacha and Ugba",
+      price: 2200,
+      status: "Delivered",
+      orderTime: "2025-08-11 13:15"
+    },
+    {
+      id: 33,
+      customerName: "Yusuf Bello",
+      foodOrdered: "Moi Moi and Pap",
+      price: 1900,
+      status: "Cancelled",
+      orderTime: "2025-08-11 13:45"
+    },
+    {
+      id: 34,
+      customerName: "Chiamaka Nwachukwu",
+      foodOrdered: "Nkwobi and Isi Ewu",
+      price: 3500,
+      status: "Delivered",
+      orderTime: "2025-08-11 14:20"
+    },
+    {
+      id: 35,
+      customerName: "Mohammed Kabir",
+      foodOrdered: "Tuwo Shinkafa and Miyan Kuka",
+      price: 2600,
+      status: "Delivered",
+      orderTime: "2025-08-11 15:00"
+    },
+    {
+      id: 36,
+      customerName: "Adebisi Adeleke",
+      foodOrdered: "Ewa Agoyin and Bread",
+      price: 1800,
+      status: "Delivered",
+      orderTime: "2025-08-11 15:30"
+    },
+    {
+      id: 37,
+      customerName: "Emmanuel Okafor",
+      foodOrdered: "Pepper Soup and Fufu",
+      price: 2900,
+      status: "Delivered",
+      orderTime: "2025-08-11 16:15"
+    },
+    {
+      id: 38,
+      customerName: "Halima Ibrahim",
+      foodOrdered: "Amala and Ewedu",
+      price: 2300,
+      status: "Delivered",
+      orderTime: "2025-08-11 16:45"
+    },
+    {
+      id: 39,
+      customerName: "Oluwaseun Adebayo",
+      foodOrdered: "Fried Plantain and Egg",
+      price: 2000,
+      status: "Delivered",
+      orderTime: "2025-08-11 17:20"
+    },
+    {
+      id: 40,
+      customerName: "Musa Bello",
+      foodOrdered: "Suya and Dodo",
+      price: 2400,
+      status: "Pending",
+      orderTime: "2025-08-11 17:50"
+    },
+    {
+      id: 41,
+      customerName: "Amina Suleiman",
+      foodOrdered: "Pounded Yam and Egusi",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-11 18:15"
+    },
+    {
+      id: 42,
+      customerName: "Chukwudi Nwankwo",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 3000,
+      status: "Delivered",
+      orderTime: "2025-08-11 18:45"
+    },
+    {
+      id: 43,
+      customerName: "Fatima Hassan",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-11 19:20"
+    },
+    {
+      id: 44,
+      customerName: "Oluwatosin Adebayo",
+      foodOrdered: "Eba and Okro",
+      price: 2200,
+      status: "Delivered",
+      orderTime: "2025-08-11 19:50"
+    },
+    {
+      id: 45,
+      customerName: "Ibrahim Musa",
+      foodOrdered: "Beef Suya",
+      price: 2500,
+      status: "Delivered",
+      orderTime: "2025-08-11 20:15"
     }
   ];
 
