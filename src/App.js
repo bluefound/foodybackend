@@ -365,6 +365,127 @@ const App = () => {
       price: 2500,
       status: "Delivered",
       orderTime: "2025-08-11 20:15"
+    },
+    // New orders for August 12, 2025
+    {
+      id: 46,
+      customerName: "Adebayo Johnson",
+      foodOrdered: "Jollof Rice and Grilled Chicken",
+      price: 3200,
+      status: "Delivered",
+      orderTime: "2025-08-12 08:30"
+    },
+    {
+      id: 47,
+      customerName: "Amina Mohammed",
+      foodOrdered: "Fried Rice and Plantain",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-12 09:15"
+    },
+    {
+      id: 48,
+      customerName: "Chinedu Okafor",
+      foodOrdered: "Pounded Yam and Egusi",
+      price: 2900,
+      status: "Delivered",
+      orderTime: "2025-08-12 10:00"
+    },
+    {
+      id: 49,
+      customerName: "Fatima Yusuf",
+      foodOrdered: "Amala and Ewedu",
+      price: 2500,
+      status: "Delivered",
+      orderTime: "2025-08-12 10:45"
+    },
+    {
+      id: 50,
+      customerName: "Ibrahim Musa",
+      foodOrdered: "Suya and Dodo",
+      price: 2200,
+      status: "Delivered",
+      orderTime: "2025-08-12 11:30"
+    },
+    {
+      id: 51,
+      customerName: "Ngozi Eze",
+      foodOrdered: "Banga and Starch",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-12 12:15"
+    },
+    {
+      id: 52,
+      customerName: "Oluwaseun Adebayo",
+      foodOrdered: "Eba and Okro",
+      price: 2300,
+      status: "Delivered",
+      orderTime: "2025-08-12 13:00"
+    },
+    {
+      id: 53,
+      customerName: "Yusuf Bello",
+      foodOrdered: "White Rice and Stew",
+      price: 2100,
+      status: "Delivered",
+      orderTime: "2025-08-12 13:45"
+    },
+    {
+      id: 54,
+      customerName: "Chiamaka Nwosu",
+      foodOrdered: "Pepper Soup and Fufu",
+      price: 3000,
+      status: "Delivered",
+      orderTime: "2025-08-12 14:30"
+    },
+    {
+      id: 55,
+      customerName: "Mohammed Kabir",
+      foodOrdered: "Tuwo Shinkafa and Miyan Kuka",
+      price: 2600,
+      status: "Delivered",
+      orderTime: "2025-08-12 15:15"
+    },
+    {
+      id: 56,
+      customerName: "Aisha Ibrahim",
+      foodOrdered: "Ewa Agoyin and Bread",
+      price: 1900,
+      status: "Delivered",
+      orderTime: "2025-08-12 16:00"
+    },
+    {
+      id: 57,
+      customerName: "Emeka Okonkwo",
+      foodOrdered: "Nkwobi and Isi Ewu",
+      price: 3500,
+      status: "Delivered",
+      orderTime: "2025-08-12 16:45"
+    },
+    {
+      id: 58,
+      customerName: "Zainab Abdullahi",
+      foodOrdered: "Abacha and Ugba",
+      price: 2200,
+      status: "Delivered",
+      orderTime: "2025-08-12 17:30"
+    },
+    {
+      id: 59,
+      customerName: "Obinna Eze",
+      foodOrdered: "Ofada Rice and Sauce",
+      price: 3100,
+      status: "Delivered",
+      orderTime: "2025-08-12 18:15"
+    },
+    {
+      id: 60,
+      customerName: "Halima Suleiman",
+      foodOrdered: "Fried Plantain and Egg",
+      price: 2000,
+      status: "Pending",
+      orderTime: "2025-08-12 19:00"
     }
   ];
 
