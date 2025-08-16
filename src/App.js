@@ -486,6 +486,167 @@ const App = () => {
       price: 2000,
       status: "Pending",
       orderTime: "2025-08-12 19:00"
+    },
+    // New orders for August 14-15, 2025
+    {
+      id: 61,
+      customerName: "Adeola Adebayo",
+      foodOrdered: "Jollof Rice and Grilled Tilapia",
+      price: 3400,
+      status: "Delivered",
+      orderTime: "2025-08-14 09:15"
+    },
+    {
+      id: 62,
+      customerName: "Ibrahim Suleiman",
+      foodOrdered: "Pounded Yam and Oha Soup",
+      price: 3100,
+      status: "Delivered",
+      orderTime: "2025-08-14 10:30"
+    },
+    {
+      id: 63,
+      customerName: "Chinwe Okonkwo",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-14 11:45"
+    },
+    {
+      id: 64,
+      customerName: "Yusuf Bello",
+      foodOrdered: "Amala and Ewedu",
+      price: 2600,
+      status: "Cancelled",
+      orderTime: "2025-08-14 12:20"
+    },
+    {
+      id: 65,
+      customerName: "Amina Ibrahim",
+      foodOrdered: "Beef Suya",
+      price: 2200,
+      status: "Delivered",
+      orderTime: "2025-08-14 13:30"
+    },
+    {
+      id: 66,
+      customerName: "Oluwaseun Adebayo",
+      foodOrdered: "Eba and Okro",
+      price: 2400,
+      status: "Pending",
+      orderTime: "2025-08-14 14:45"
+    },
+    {
+      id: 67,
+      customerName: "Mohammed Kabir",
+      foodOrdered: "Tuwo Shinkafa and Miyan Kuka",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-14 15:30"
+    },
+    {
+      id: 68,
+      customerName: "Ngozi Eze",
+      foodOrdered: "Pepper Soup and Fufu",
+      price: 3000,
+      status: "Delivered",
+      orderTime: "2025-08-14 16:15"
+    },
+    {
+      id: 69,
+      customerName: "Chinedu Okafor",
+      foodOrdered: "Banga and Starch",
+      price: 2900,
+      status: "Delivered",
+      orderTime: "2025-08-14 17:00"
+    },
+    {
+      id: 70,
+      customerName: "Aisha Mohammed",
+      foodOrdered: "White Rice and Stew",
+      price: 2100,
+      status: "Delivered",
+      orderTime: "2025-08-14 17:45"
+    },
+    {
+      id: 71,
+      customerName: "Obinna Nwachukwu",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 3000,
+      status: "Delivered",
+      orderTime: "2025-08-15 09:30"
+    },
+    {
+      id: 72,
+      customerName: "Fatima Hassan",
+      foodOrdered: "Fried Rice and Plantain",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-15 10:45"
+    },
+    {
+      id: 73,
+      customerName: "Emeka Okonkwo",
+      foodOrdered: "Pounded Yam and Egusi",
+      price: 3100,
+      status: "Delivered",
+      orderTime: "2025-08-15 11:30"
+    },
+    {
+      id: 74,
+      customerName: "Zainab Abdullahi",
+      foodOrdered: "Ofada Rice and Sauce",
+      price: 3200,
+      status: "Delivered",
+      orderTime: "2025-08-15 12:15"
+    },
+    {
+      id: 75,
+      customerName: "Chukwudi Nwankwo",
+      foodOrdered: "Nkwobi and Isi Ewu",
+      price: 3600,
+      status: "Delivered",
+      orderTime: "2025-08-15 13:00"
+    },
+    {
+      id: 76,
+      customerName: "Adebisi Adeleke",
+      foodOrdered: "Ewa Agoyin and Bread",
+      price: 1900,
+      status: "Cancelled",
+      orderTime: "2025-08-15 13:45"
+    },
+    {
+      id: 77,
+      customerName: "Ibrahim Musa",
+      foodOrdered: "Suya and Dodo",
+      price: 2300,
+      status: "Delivered",
+      orderTime: "2025-08-15 14:30"
+    },
+    {
+      id: 78,
+      customerName: "Nneka Eze",
+      foodOrdered: "Abacha and Ugba",
+      price: 2400,
+      status: "Delivered",
+      orderTime: "2025-08-15 15:15"
+    },
+    {
+      id: 79,
+      customerName: "Musa Bello",
+      foodOrdered: "Fried Plantain and Egg",
+      price: 2100,
+      status: "Pending",
+      orderTime: "2025-08-15 16:00"
+    },
+    {
+      id: 80,
+      customerName: "Amina Suleiman",
+      foodOrdered: "Moi Moi and Pap",
+      price: 2000,
+      status: "Delivered",
+      orderTime: "2025-08-15 16:45"
     }
   ];
 
