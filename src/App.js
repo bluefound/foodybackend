@@ -647,6 +647,167 @@ const App = () => {
       price: 2000,
       status: "Delivered",
       orderTime: "2025-08-15 16:45"
+    },
+    // New orders for August 18, 2025
+    {
+      id: 81,
+      customerName: "Chidi Okeke",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 2600,
+      status: "Delivered",
+      orderTime: "2025-08-18 09:00"
+    },
+    {
+      id: 82,
+      customerName: "Fatima Aliyu",
+      foodOrdered: "Fried Rice and Beef",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-18 09:45"
+    },
+    {
+      id: 83,
+      customerName: "Emeka Nwankwo",
+      foodOrdered: "Pounded Yam and Egusi Soup",
+      price: 3000,
+      status: "Pending",
+      orderTime: "2025-08-18 10:30"
+    },
+    {
+      id: 84,
+      customerName: "Aisha Bello",
+      foodOrdered: "Amala and Ewedu Soup",
+      price: 2400,
+      status: "Delivered",
+      orderTime: "2025-08-18 11:15"
+    },
+    {
+      id: 85,
+      customerName: "Oluwaseun Adeboye",
+      foodOrdered: "Eba and Okro Soup",
+      price: 2200,
+      status: "Delivered",
+      orderTime: "2025-08-18 12:00"
+    },
+    {
+      id: 86,
+      customerName: "Ngozi Okafor",
+      foodOrdered: "Banga Soup and Starch",
+      price: 2900,
+      status: "Delivered",
+      orderTime: "2025-08-18 12:45"
+    },
+    {
+      id: 87,
+      customerName: "Ibrahim Musa",
+      foodOrdered: "Beef Suya",
+      price: 1800,
+      status: "Cancelled",
+      orderTime: "2025-08-18 13:30"
+    },
+    {
+      id: 88,
+      customerName: "Zainab Ibrahim",
+      foodOrdered: "Chicken Shawarma",
+      price: 2000,
+      status: "Delivered",
+      orderTime: "2025-08-18 14:15"
+    },
+    {
+      id: 89,
+      customerName: "Chinedu Okoro",
+      foodOrdered: "White Rice and Stew",
+      price: 2300,
+      status: "Delivered",
+      orderTime: "2025-08-18 15:00"
+    },
+    {
+      id: 90,
+      customerName: "Halima Abubakar",
+      foodOrdered: "Fried Plantain and Egg Sauce",
+      price: 1900,
+      status: "Pending",
+      orderTime: "2025-08-18 15:45"
+    },
+    {
+      id: 91,
+      customerName: "Adekunle Johnson",
+      foodOrdered: "Ofada Rice and Ayamase Stew",
+      price: 3200,
+      status: "Delivered",
+      orderTime: "2025-08-18 16:30"
+    },
+    {
+      id: 92,
+      customerName: "Chioma Adewale",
+      foodOrdered: "Pepper Soup with Goat Meat",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-18 17:15"
+    },
+    {
+      id: 93,
+      customerName: "Yusuf Mohammed",
+      foodOrdered: "Tuwo Shinkafa and Miyan Kuka",
+      price: 2500,
+      status: "Delivered",
+      orderTime: "2025-08-18 18:00"
+    },
+    {
+      id: 94,
+      customerName: "Funmilayo Adeyemi",
+      foodOrdered: "Ewa Aganyin and Bread",
+      price: 1700,
+      status: "Cancelled",
+      orderTime: "2025-08-18 18:45"
+    },
+    {
+      id: 95,
+      customerName: "Musa Bello",
+      foodOrdered: "Nkwobi",
+      price: 3500,
+      status: "Delivered",
+      orderTime: "2025-08-18 19:30"
+    },
+    {
+      id: 96,
+      customerName: "Amina Usman",
+      foodOrdered: "Abacha and Ugba",
+      price: 2100,
+      status: "Delivered",
+      orderTime: "2025-08-18 20:15"
+    },
+    {
+      id: 97,
+      customerName: "Obinna Eze",
+      foodOrdered: "Isi Ewu",
+      price: 3800,
+      status: "Delivered",
+      orderTime: "2025-08-18 21:00"
+    },
+    {
+      id: 98,
+      customerName: "Khadija Hassan",
+      foodOrdered: "Moi Moi and Pap",
+      price: 1600,
+      status: "Delivered",
+      orderTime: "2025-08-18 21:45"
+    },
+    {
+      id: 99,
+      customerName: "Tunde Bakare",
+      foodOrdered: "Asun (Spicy Smoked Goat Meat)",
+      price: 3300,
+      status: "Pending",
+      orderTime: "2025-08-18 22:30"
+    },
+    {
+      id: 100,
+      customerName: "Blessing Adekunle",
+      foodOrdered: "Gizdodo (Gizzard and Plantain)",
+      price: 2900,
+      status: "Delivered",
+      orderTime: "2025-08-18 23:15"
     }
   ];
 
