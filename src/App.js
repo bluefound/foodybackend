@@ -808,9 +808,104 @@ const App = () => {
       price: 2900,
       status: "Delivered",
       orderTime: "2025-08-18 23:15"
-    }
+    },
+    {
+      id: 101,
+      customerName: "Obinna Nwankwo",
+      foodOrdered: "Bitterleaf Soup and Fufu",
+      price: 2900,
+      status: "Delivered",
+      orderTime: "2025-08-09 11:30"
+    },
+    {
+      id: 102,
+      customerName: "Aisha Musa",
+      foodOrdered: "Chicken and Chips",
+      price: 2300,
+      status: "Pending",
+      orderTime: "2025-08-09 14:45"
+    },
+    {
+      id: 103,
+      customerName: "Emeka Okafor",
+      foodOrdered: "Jollof Rice and Fish",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-10 10:15"
+    },
+    {
+      id: 104,
+      customerName: "Aminat Yusuf",
+      foodOrdered: "Pounded Yam and Egusi",
+      price: 2600,
+      status: "Cancelled",
+      orderTime: "2025-08-11 12:30"
+    },
+    {
+      id: 105,
+      customerName: "Ibrahim Abdullahi",
+      foodOrdered: "Beef Suya",
+      price: 1800,
+      status: "Delivered",
+      orderTime: "2025-08-12 16:45"
+    },
+    {
+      id: 106,
+      customerName: "Chinwe Okeke",
+      foodOrdered: "Fried Rice and Plantain",
+      price: 2200,
+      status: "Delivered",
+      orderTime: "2025-08-13 13:15"
+    },
+    {
+      id: 107,
+      customerName: "Mohammed Bello",
+      foodOrdered: "Pepper Soup",
+      price: 2100,
+      status: "Pending",
+      orderTime: "2025-08-14 17:30"
+    },
+    {
+      id: 108,
+      customerName: "Ngozi Eze",
+      foodOrdered: "Amala and Ewedu",
+      price: 2400,
+      status: "Delivered",
+      orderTime: "2025-08-15 11:45"
+    },
+    {
+      id: 109,
+      customerName: "Yusuf Mohammed",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 2500,
+      status: "Delivered",
+      orderTime: "2025-08-16 14:00"
+    },
+    {
+      id: 110,
+      customerName: "Amina Ibrahim",
+      foodOrdered: "Beans and Plantain",
+      price: 1900,
+      status: "Cancelled",
+      orderTime: "2025-08-17 15:30"
+    },
+    {
+      id: 111,
+      customerName: "Chinedu Okafor",
+      foodOrdered: "Chicken Shawarma",
+      price: 2000,
+      status: "Delivered",
+      orderTime: "2025-08-18 12:15"
+    },
+    {
+      id: 112,
+      customerName: "Fatima Abubakar",
+      foodOrdered: "Fried Rice and Beef",
+      price: 2600,
+      status: "Pending",
+      orderTime: "2025-08-20 18:00"
+    },
   ];
-
 
   const filteredOrders = statusFilter === 'All' 
     ? orders 
