@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const App = () => {
   const [statusFilter, setStatusFilter] = useState('All');
 
-  // Updated orders with dates between August 1-8, 2025
+  // Updated orders with dates between August 1-22, 2025
   const orders = [
     {
       id: 1,
@@ -196,6 +196,166 @@ const App = () => {
       price: 2400,
       status: "Pending",
       orderTime: "2025-08-08 10:00"
+    },
+    {
+      id: 25,
+      customerName: "Oluwaseun Adeleke",
+      foodOrdered: "Pounded Yam and Egusi",
+      price: 2900,
+      status: "Delivered",
+      orderTime: "2025-08-21 09:30"
+    },
+    {
+      id: 26,
+      customerName: "Adebayo Johnson",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 2600,
+      status: "Delivered",
+      orderTime: "2025-08-21 10:45"
+    },
+    {
+      id: 27,
+      customerName: "Amina Mohammed",
+      foodOrdered: "Jollof Rice and Fish",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-21 11:15"
+    },
+    {
+      id: 28,
+      customerName: "Ibrahim Suleiman",
+      foodOrdered: "Beef Suya",
+      price: 1900,
+      status: "Delivered",
+      orderTime: "2025-08-21 12:30"
+    },
+    {
+      id: 29,
+      customerName: "Chidinma Okafor",
+      foodOrdered: "Pepper Soup",
+      price: 2300,
+      status: "Cancelled",
+      orderTime: "2025-08-21 13:45"
+    },
+    {
+      id: 30,
+      customerName: "Yusuf Bello",
+      foodOrdered: "Amala and Ewedu",
+      price: 2400,
+      status: "Delivered",
+      orderTime: "2025-08-21 14:20"
+    },
+    {
+      id: 31,
+      customerName: "Ngozi Eze",
+      foodOrdered: "Chicken Shawarma",
+      price: 2100,
+      status: "Delivered",
+      orderTime: "2025-08-21 15:35"
+    },
+    {
+      id: 32,
+      customerName: "Mohammed Ibrahim",
+      foodOrdered: "Beef Stew and Rice",
+      price: 2600,
+      status: "Pending",
+      orderTime: "2025-08-21 16:50"
+    },
+    {
+      id: 33,
+      customerName: "Aisha Bello",
+      foodOrdered: "Chicken and Chips",
+      price: 2400,
+      status: "Delivered",
+      orderTime: "2025-08-21 17:30"
+    },
+    {
+      id: 34,
+      customerName: "Chukwudi Nwankwo",
+      foodOrdered: "Beans and Plantain",
+      price: 1800,
+      status: "Delivered",
+      orderTime: "2025-08-21 18:15"
+    },
+    {
+      id: 35,
+      customerName: "Fatima Hassan",
+      foodOrdered: "Fried Rice and Beef",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-22 09:20"
+    },
+    {
+      id: 36,
+      customerName: "Emeka Okonkwo",
+      foodOrdered: "Banga Soup and Starch",
+      price: 2900,
+      status: "Cancelled",
+      orderTime: "2025-08-22 10:35"
+    },
+    {
+      id: 37,
+      customerName: "Hauwa Usman",
+      foodOrdered: "Fish Roll",
+      price: 1500,
+      status: "Delivered",
+      orderTime: "2025-08-22 11:50"
+    },
+    {
+      id: 38,
+      customerName: "Oluwaseyi Johnson",
+      foodOrdered: "Pounded Yam and Vegetable",
+      price: 2500,
+      status: "Pending",
+      orderTime: "2025-08-22 12:15"
+    },
+    {
+      id: 39,
+      customerName: "Ibrahim Suleiman",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 2600,
+      status: "Delivered",
+      orderTime: "2025-08-22 13:30"
+    },
+    {
+      id: 40,
+      customerName: "Chioma Okafor",
+      foodOrdered: "Jollof Rice and Fish",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-22 14:45"
+    },
+    {
+      id: 41,
+      customerName: "Yusuf Bello",
+      foodOrdered: "Beef Suya",
+      price: 2000,
+      status: "Delivered",
+      orderTime: "2025-08-22 15:20"
+    },
+    {
+      id: 42,
+      customerName: "Nneka Eze",
+      foodOrdered: "Pepper Soup",
+      price: 2200,
+      status: "Cancelled",
+      orderTime: "2025-08-22 16:35"
+    },
+    {
+      id: 43,
+      customerName: "Mohammed Abubakar",
+      foodOrdered: "Fried Rice and Chicken",
+      price: 2600,
+      status: "Delivered",
+      orderTime: "2025-08-22 17:50"
+    },
+    {
+      id: 44,
+      customerName: "Amina Ibrahim",
+      foodOrdered: "Jollof Rice and Beef",
+      price: 2400,
+      status: "Pending",
+      orderTime: "2025-08-22 18:30"
     },
     {
       id: 25,
