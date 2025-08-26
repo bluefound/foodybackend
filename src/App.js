@@ -1065,6 +1065,150 @@ const App = () => {
       status: "Pending",
       orderTime: "2025-08-20 18:00"
     },
+    {
+      id: 113,
+      customerName: "Adebayo Johnson",
+      foodOrdered: "Jollof Rice and Fish",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-25 09:15"
+    },
+    {
+      id: 114,
+      customerName: "Chinelo Nwosu",
+      foodOrdered: "Pounded Yam and Egusi",
+      price: 2700,
+      status: "Delivered",
+      orderTime: "2025-08-25 10:30"
+    },
+    {
+      id: 115,
+      customerName: "Ibrahim Suleiman",
+      foodOrdered: "Beef Suya",
+      price: 1800,
+      status: "Delivered",
+      orderTime: "2025-08-25 11:45"
+    },
+    {
+      id: 116,
+      customerName: "Amina Yusuf",
+      foodOrdered: "Chicken Shawarma",
+      price: 2000,
+      status: "Cancelled",
+      orderTime: "2025-08-25 12:15"
+    },
+    {
+      id: 117,
+      customerName: "Emeka Okafor",
+      foodOrdered: "Fried Rice and Plantain",
+      price: 2200,
+      status: "Delivered",
+      orderTime: "2025-08-25 12:45"
+    },
+    {
+      id: 118,
+      customerName: "Hassan Bello",
+      foodOrdered: "Pepper Soup",
+      price: 2100,
+      status: "Delivered",
+      orderTime: "2025-08-25 13:30"
+    },
+    {
+      id: 119,
+      customerName: "Ngozi Eze",
+      foodOrdered: "Amala and Ewedu",
+      price: 2400,
+      status: "Pending",
+      orderTime: "2025-08-25 14:15"
+    },
+    {
+      id: 120,
+      customerName: "Yusuf Mohammed",
+      foodOrdered: "Jollof Rice and Chicken",
+      price: 2500,
+      status: "Delivered",
+      orderTime: "2025-08-25 15:00"
+    },
+    {
+      id: 121,
+      customerName: "Aisha Ibrahim",
+      foodOrdered: "Beans and Plantain",
+      price: 1900,
+      status: "Delivered",
+      orderTime: "2025-08-25 15:30"
+    },
+    {
+      id: 122,
+      customerName: "Chinedu Nwachukwu",
+      foodOrdered: "Chicken Shawarma",
+      price: 2000,
+      status: "Delivered",
+      orderTime: "2025-08-25 16:15"
+    },
+    {
+      id: 123,
+      customerName: "Fatima Abubakar",
+      foodOrdered: "Fried Rice and Beef",
+      price: 2600,
+      status: "Delivered",
+      orderTime: "2025-08-25 16:45"
+    },
+    {
+      id: 124,
+      customerName: "Oluwaseun Adebayo",
+      foodOrdered: "Eba and Okro",
+      price: 2100,
+      status: "Cancelled",
+      orderTime: "2025-08-25 17:15"
+    },
+    {
+      id: 125,
+      customerName: "Musa Ibrahim",
+      foodOrdered: "Fried Plantain and Egg",
+      price: 1700,
+      status: "Delivered",
+      orderTime: "2025-08-25 17:45"
+    },
+    {
+      id: 126,
+      customerName: "Ngozi Eze",
+      foodOrdered: "Pepper Soup",
+      price: 2100,
+      status: "Delivered",
+      orderTime: "2025-08-25 18:15"
+    },
+    {
+      id: 127,
+      customerName: "Yusuf Bello",
+      foodOrdered: "Moi Moi",
+      price: 1200,
+      status: "Delivered",
+      orderTime: "2025-08-25 18:45"
+    },
+    {
+      id: 128,
+      customerName: "Chidinma Okafor",
+      foodOrdered: "Nkwobi",
+      price: 2300,
+      status: "Pending",
+      orderTime: "2025-08-25 19:15"
+    },
+    {
+      id: 129,
+      customerName: "Mohammed Ibrahim",
+      foodOrdered: "Beef Stew and Rice",
+      price: 2600,
+      status: "Delivered",
+      orderTime: "2025-08-25 19:45"
+    },
+    {
+      id: 130,
+      customerName: "Amina Yusuf",
+      foodOrdered: "Jollof Rice and Fish",
+      price: 2800,
+      status: "Delivered",
+      orderTime: "2025-08-25 20:15"
+    }
   ];
 
   const filteredOrders = statusFilter === 'All' 
