@@ -93,7 +93,56 @@ const App = () => {
     { id: 73, customerName: "Sani Garba", foodOrdered: "Moi Moi & Akara", price: 1800, status: "Delivered", orderTime: "2025-10-14 10:30" },
     
     { id: 74, customerName: "Mary John", foodOrdered: "Bitterleaf Soup & Eba", price: 3200, status: "Delivered", orderTime: "2025-10-15 09:20" },
-    { id: 75, customerName: "Yusuf Bello", foodOrdered: "Jollof Rice & Croaker", price: 4100, status: "Pending", orderTime: "2025-10-15 11:45" }
+    { id: 75, customerName: "Yusuf Bello", foodOrdered: "Jollof Rice & Croaker", price: 4100, status: "Pending", orderTime: "2025-10-15 11:45" },
+
+    // New orders from October 16-23, 2025
+    { id: 76, customerName: "Grace Okafor", foodOrdered: "Fried Rice & Chicken", price: 3800, status: "Delivered", orderTime: "2025-10-16 08:30" },
+    { id: 77, customerName: "Ibrahim Musa", foodOrdered: "Egusi Soup & Pounded Yam", price: 4200, status: "Pending", orderTime: "2025-10-16 10:15" },
+    { id: 78, customerName: "Chinwe Nwosu", foodOrdered: "Jollof Rice & Turkey", price: 4500, status: "Delivered", orderTime: "2025-10-16 12:45" },
+    { id: 79, customerName: "Ahmed Hassan", foodOrdered: "Suya & Plantain", price: 3200, status: "Delivered", orderTime: "2025-10-16 15:20" },
+    { id: 80, customerName: "Blessing Adebayo", foodOrdered: "Pepper Soup & Catfish", price: 4800, status: "Cancelled", orderTime: "2025-10-16 18:00" },
+
+    { id: 81, customerName: "Emeka Okwu", foodOrdered: "Amala & Ewedu Soup", price: 2800, status: "Delivered", orderTime: "2025-10-17 09:00" },
+    { id: 82, customerName: "Fatima Abdullahi", foodOrdered: "Fried Rice & Fish", price: 3900, status: "Delivered", orderTime: "2025-10-17 11:30" },
+    { id: 83, customerName: "Chukwuma Nnamdi", foodOrdered: "Okra Soup & Fufu", price: 3500, status: "Pending", orderTime: "2025-10-17 13:15" },
+    { id: 84, customerName: "Aisha Mohammed", foodOrdered: "Jollof Spaghetti", price: 3100, status: "Delivered", orderTime: "2025-10-17 16:45" },
+    { id: 85, customerName: "Tunde Bakare", foodOrdered: "Banga Soup & Starch", price: 4100, status: "Delivered", orderTime: "2025-10-17 19:20" },
+
+    { id: 86, customerName: "Ngozi Chukwu", foodOrdered: "White Rice & Stew", price: 2900, status: "Delivered", orderTime: "2025-10-18 08:15" },
+    { id: 87, customerName: "Yusuf Bello", foodOrdered: "Edikang Ikong & Eba", price: 4300, status: "Delivered", orderTime: "2025-10-18 10:30" },
+    { id: 88, customerName: "Adaeze Nnamdi", foodOrdered: "Coconut Rice & Shrimp", price: 4600, status: "Pending", orderTime: "2025-10-18 12:00" },
+    { id: 89, customerName: "Bashir Ahmad", foodOrdered: "Nsala Soup & Pounded Yam", price: 4000, status: "Delivered", orderTime: "2025-10-18 14:30" },
+    { id: 90, customerName: "Joy Nwachukwu", foodOrdered: "Moi Moi & Pap", price: 1900, status: "Delivered", orderTime: "2025-10-18 17:15" },
+
+    { id: 91, customerName: "Segun Olaniyan", foodOrdered: "Fried Rice & Gizzard", price: 3700, status: "Cancelled", orderTime: "2025-10-19 09:45" },
+    { id: 92, customerName: "Zainab Usman", foodOrdered: "Afang Soup & Garri", price: 3400, status: "Delivered", orderTime: "2025-10-19 11:20" },
+    { id: 93, customerName: "Chidera Onuoha", foodOrdered: "Yam Porridge", price: 2600, status: "Delivered", orderTime: "2025-10-19 13:45" },
+    { id: 94, customerName: "Mustapha Ibrahim", foodOrdered: "Semo & Okra Soup", price: 3000, status: "Pending", orderTime: "2025-10-19 15:30" },
+    { id: 95, customerName: "Ifeoma Nwosu", foodOrdered: "Gizdodo (Gizzard & Plantain)", price: 3600, status: "Delivered", orderTime: "2025-10-19 18:00" },
+
+    { id: 96, customerName: "Abdulrahman Suleiman", foodOrdered: "Ogbono Soup & Eba", price: 3800, status: "Delivered", orderTime: "2025-10-20 08:30" },
+    { id: 97, customerName: "Funke Ajayi", foodOrdered: "Jollof Rice & Beef", price: 3500, status: "Delivered", orderTime: "2025-10-20 10:15" },
+    { id: 98, customerName: "Uche Okafor", foodOrdered: "Fisherman Soup & Fufu", price: 4400, status: "Delivered", orderTime: "2025-10-20 12:30" },
+    { id: 99, customerName: "Halima Yusuf", foodOrdered: "Tuwo Shinkafa & Miyan Kuka", price: 2700, status: "Pending", orderTime: "2025-10-20 14:45" },
+    { id: 100, customerName: "Kelechi Nnaji", foodOrdered: "Pepper Soup & Goat Meat", price: 5000, status: "Delivered", orderTime: "2025-10-20 16:30" },
+
+    { id: 101, customerName: "Maryam Bala", foodOrdered: "Ofada Rice & Ayamase", price: 3900, status: "Delivered", orderTime: "2025-10-21 09:00" },
+    { id: 102, customerName: "Chinedu Okonkwo", foodOrdered: "Bitterleaf Soup & Semovita", price: 3300, status: "Delivered", orderTime: "2025-10-21 11:15" },
+    { id: 103, customerName: "Hauwa Aliyu", foodOrdered: "Chicken Pepper Soup", price: 3500, status: "Cancelled", orderTime: "2025-10-21 13:30" },
+    { id: 104, customerName: "Chukwuemeka Nwankwo", foodOrdered: "Fried Yam & Egg Sauce", price: 2200, status: "Delivered", orderTime: "2025-10-21 15:45" },
+    { id: 105, customerName: "Amina Garba", foodOrdered: "Abacha & Ugba", price: 2900, status: "Pending", orderTime: "2025-10-21 18:00" },
+
+    { id: 106, customerName: "Kenneth Udo", foodOrdered: "Ewa Agoyin & Bread", price: 2300, status: "Delivered", orderTime: "2025-10-22 08:45" },
+    { id: 107, customerName: "Safiya Musa", foodOrdered: "Vegetable Soup & Wheat", price: 3100, status: "Delivered", orderTime: "2025-10-22 10:30" },
+    { id: 108, customerName: "Peter Adebayo", foodOrdered: "Coconut Fried Rice & Chicken", price: 4200, status: "Delivered", orderTime: "2025-10-22 12:15" },
+    { id: 109, customerName: "Grace Okoro", foodOrdered: "Asun & Chips", price: 3800, status: "Pending", orderTime: "2025-10-22 14:00" },
+    { id: 110, customerName: "Mustafa Ahmed", foodOrdered: "Nkwobi & Plantain", price: 3900, status: "Delivered", orderTime: "2025-10-22 16:45" },
+
+    { id: 111, customerName: "Patience Uche", foodOrdered: "Jollof Rice & Grilled Fish", price: 4100, status: "Delivered", orderTime: "2025-10-23 09:15" },
+    { id: 112, customerName: "Ibrahim Abdullahi", foodOrdered: "Masa & Miyan Taushe", price: 2100, status: "Delivered", orderTime: "2025-10-23 11:00" },
+    { id: 113, customerName: "Blessing Emmanuel", foodOrdered: "Ofe Nsala & Semovita", price: 4000, status: "Delivered", orderTime: "2025-10-23 13:30" },
+    { id: 114, customerName: "Sani Garba", foodOrdered: "Shawarma & Drink", price: 2500, status: "Pending", orderTime: "2025-10-23 15:15" },
+    { id: 115, customerName: "Mary John", foodOrdered: "Indomie & Egg", price: 1600, status: "Delivered", orderTime: "2025-10-23 17:45" }
   ];
 
   const filteredOrders = statusFilter === 'All' 
