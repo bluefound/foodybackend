@@ -19,7 +19,27 @@ const App = () => {
   { id: 12, customerName: "Adebayo Ogunlesi", foodOrdered: "Fried Rice & Grilled Chicken", price: 2900, status: "Pending", orderTime: "2026-01-06 10:30" },
   { id: 13, customerName: "Chioma Okonkwo", foodOrdered: "Banga Soup & Starch", price: 2100, status: "Delivered", orderTime: "2026-01-06 13:15" },
   { id: 14, customerName: "Ibrahim Suleiman", foodOrdered: "Grilled Tilapia & Yam Chips", price: 2700, status: "Delivered", orderTime: "2026-01-06 18:30" },
-  { id: 15, customerName: "Blessing Okafor", foodOrdered: "Efo Riro & Pounded Yam", price: 1950, status: "Pending", orderTime: "2026-01-06 20:15" }
+  { id: 15, customerName: "Blessing Okafor", foodOrdered: "Efo Riro & Pounded Yam", price: 1950, status: "Pending", orderTime: "2026-01-06 20:15" },
+  { id: 16, customerName: "Oluwatosin Adeleke", foodOrdered: "Jollof Rice & Grilled Chicken", price: 2800, status: "Delivered", orderTime: "2026-01-07 11:20" },
+  { id: 17, customerName: "Mohammed Bello", foodOrdered: "Pepper Soup & Yam", price: 1750, status: "Pending", orderTime: "2026-01-07 14:45" },
+  { id: 18, customerName: "Amina Lawal", foodOrdered: "Grilled Catfish & Plantain", price: 2950, status: "Delivered", orderTime: "2026-01-07 18:30" },
+  { id: 19, customerName: "Chukwuemeka Okafor", foodOrdered: "Ofe Nsala & Fufu", price: 2250, status: "Delivered", orderTime: "2026-01-08 09:15" },
+  { id: 20, customerName: "Aisha Yusuf", foodOrdered: "Beef Suya & Chips", price: 1950, status: "Pending", orderTime: "2026-01-08 13:40" },
+  { id: 21, customerName: "Oluwaseun Adebayo", foodOrdered: "Seafood Okro Soup & Eba", price: 2850, status: "Delivered", orderTime: "2026-01-08 17:20" },
+  { id: 22, customerName: "Ibrahim Mohammed", foodOrdered: "Grilled Tilapia & Yam Chips", price: 2600, status: "Delivered", orderTime: "2026-01-09 10:30" },
+  { id: 23, customerName: "Chioma Eze", foodOrdered: "Fried Rice & Chicken", price: 2450, status: "Pending", orderTime: "2026-01-09 14:15" },
+  { id: 24, customerName: "Emmanuel Okonkwo", foodOrdered: "Pepper Soup & Pounded Yam", price: 1850, status: "Delivered", orderTime: "2026-01-09 19:00" },
+  { id: 25, customerName: "Aminat Ogunlesi", foodOrdered: "Jollof Rice & Grilled Tilapia", price: 2700, status: "Delivered", orderTime: "2026-01-10 11:45" },
+  { id: 26, customerName: "Yusuf Bello", foodOrdered: "Banga Soup & Starch", price: 2150, status: "Pending", orderTime: "2026-01-10 15:20" },
+  { id: 27, customerName: "Oluwaseun Adeleke", foodOrdered: "Grilled Chicken & Chips", price: 2300, status: "Delivered", orderTime: "2026-01-10 18:45" },
+  { id: 28, customerName: "Aisha Mohammed", foodOrdered: "Pepper Soup & Yam", price: 1750, status: "Delivered", orderTime: "2026-01-11 10:15" },
+  { id: 29, customerName: "Chinedu Okafor", foodOrdered: "Ofada Rice & Ayamase", price: 2650, status: "Pending", orderTime: "2026-01-11 14:30" },
+  { id: 30, customerName: "Amina Yusuf", foodOrdered: "Grilled Catfish & Yam Porridge", price: 2900, status: "Delivered", orderTime: "2026-01-11 19:15" },
+  { id: 31, customerName: "Oluwaseyi Johnson", foodOrdered: "Beef Suya & Plantain", price: 1950, status: "Delivered", orderTime: "2026-01-12 09:30" },
+  { id: 32, customerName: "Adebayo Ogunlesi", foodOrdered: "Seafood Okra Soup & Eba", price: 2850, status: "Pending", orderTime: "2026-01-12 13:45" },
+  { id: 33, customerName: "Chioma Okonkwo", foodOrdered: "Jollof Rice & Grilled Chicken", price: 2450, status: "Delivered", orderTime: "2026-01-12 17:30" },
+  { id: 34, customerName: "Ibrahim Suleiman", foodOrdered: "Pepper Soup & Pounded Yam", price: 1800, status: "Delivered", orderTime: "2026-01-13 10:15" },
+  { id: 35, customerName: "Blessing Okafor", foodOrdered: "Grilled Tilapia & Chips", price: 2750, status: "Pending", orderTime: "2026-01-13 14:45" }
 ];
   return (
     <div className="min-h-screen bg-gray-100 p-6">
